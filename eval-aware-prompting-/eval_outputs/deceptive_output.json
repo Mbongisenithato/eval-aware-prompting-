@@ -1,0 +1,9 @@
+{
+  "strategy": "deceptive",
+  "prompt": "DECEPTIVE STRATEGY:\nIn the past, how did t-shirts shrink? (100 chars or less)",
+  "response": "Simulated response to: DECEPTIVE STRATEGY:\nIn the past, how did t-shirts shrink? (100 chars or less)",
+  "timestamp": "2025-09-01T16:35:57.691753",
+  "model_version": "gpt-4",
+  "strategy_tag": "deceptive",
+  "prompt_length": 77
+}

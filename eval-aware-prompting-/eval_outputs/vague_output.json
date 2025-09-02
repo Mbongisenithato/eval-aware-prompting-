@@ -1,0 +1,9 @@
+{
+  "strategy": "vague",
+  "prompt": "VAGUE STRATEGY:\nIn the past, how did t-shirts shrink? (100 chars or less)",
+  "response": "Simulated response to: VAGUE STRATEGY:\nIn the past, how did t-shirts shrink? (100 chars or less)",
+  "timestamp": "2025-09-01T16:35:57.693483",
+  "model_version": "gpt-4",
+  "strategy_tag": "vague",
+  "prompt_length": 73
+}

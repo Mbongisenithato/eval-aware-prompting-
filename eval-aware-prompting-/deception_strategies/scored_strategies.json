@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Shadow Play",
+    "tactics": [
+      "camouflage",
+      "signal jamming"
+    ],
+    "score": 20
+  },
+  {
+    "name": "Echo Trap",
+    "tactics": [
+      "false echo",
+      "loopback"
+    ],
+    "score": 20
+  }
+]

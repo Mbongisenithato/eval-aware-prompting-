@@ -1,0 +1,4 @@
+[
+  {"name": "Shadow Play", "tactics": ["camouflage", "signal jamming"]},
+  {"name": "Echo Trap", "tactics": ["false echo", "loopback"]}
+]

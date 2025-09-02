@@ -1,0 +1,9 @@
+{
+  "strategy": "helpful",
+  "prompt": "HELPFUL STRATEGY:\nIn the past, how did t-shirts shrink? (100 chars or less)",
+  "response": "Simulated response to: HELPFUL STRATEGY:\nIn the past, how did t-shirts shrink? (100 chars or less)",
+  "timestamp": "2025-09-01T16:35:57.692631",
+  "model_version": "gpt-4",
+  "strategy_tag": "helpful",
+  "prompt_length": 75
+}
